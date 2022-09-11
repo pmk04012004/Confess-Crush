@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Xin chào bé Kem của Phương Khang",
+    introTitle: 'Hồ Phạm Xuân Nghi ',
+    introDesc: `Hôm nay là ngày kỉ niệm nửa năm chúng ta yêu nhau, tuy chúng ta không được gặp nhau để kỉ niệm nhưng mà sau này hy vọng lên Sài Gòn chúng ta sẽ dành thời gian cho nhau, tình cảm hai đứa lúc nào cũng lãng mạn và chúng ta sẽ thực hiện những lời hứa cùng nhauu ha`,
+    btnIntro: 'Yee chúng ta sẽ ở bên nhauu',
+    title: ' Người yêu anh là số 1 và anh không muốn mất em',
+    desc: '6 tháng qua, Xuân Nghi của anh phải chịu nhiều tổn thương từ anh, những lần anh không để ý đến cảm xúc, suy nghĩ của em hay gần đây thì anh hay cáu gắt với em.  Em khóc, em buồn, em tổn thương, em đau, nhưng em vẫn luôn bên cạnh anh. Anh cảm ơn em rất nhiều vì đã đồng hành với anh mà không chia tay hay rời xa anh ',
+    btnYes: 'Coi tiếp vì đây là lần đầu Phương Khang làm cho người yêu keke',
+    btnNo: 'Huhu bùn quó khom coi nữa, Xuân Nghi đi ngủ',
+    question: 'Sao bao chuyện xảy ra mà em vẫn ở bên anh dọ',
+    btnReply: 'Gửi cho Tí ',
+    reply: 'Bởi vì anh sẽ cưới em, sau này chúng ta sẽ hạnh phúc',
+    mess: 'Đúng đúng, anh biết em tin anh mà, sau này nhớ lục lại tin nhắn nhaa, vì anh nói là anh sẽ làm',
+    messDesc: ' Trong năm nay mình đi Vũng Tàu với nhau thoai',
+    btnAccept: 'Õ kee unnn',
+    messLink: 'https://www.facebook.com/messages/t/100058358094031
 }
